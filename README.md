@@ -27,10 +27,48 @@ This project is a demo of a game idea. The game itself is built around the phone
 
 - Unity
 
-## Credits
+## Credits and Assets used
+Assets used: 
 
-- Game assets and resources provided by UWE.
+**Music for the demo:**
 
-## License
+Night/Day music and transitions 
+Alkakrab. (2022). Fx1 [Recorded by Alkakrab], Fantasy RPG Soundtrack Music. [Digital download].  
+
+Alkakrab. (2022). Fx3 [Recorded by Alkakrab], Fantasy RPG Soundtrack Music. [Digital download].  
+
+Alkakrab. (2022). Light Ambient 5 [Recorded by Alkakrab], Fantasy RPG Soundtrack Music. [Digital download].  
+
+Alkakrab. (2022). Dark Ambient 5 [Recorded by Alkakrab], Fantasy RPG Soundtrack Music. [Digital download].  
+
+Alkakrab. (2022). Ambient 2 [Recorded by Alkakrab], Fantasy RPG Soundtrack Music. [Digital download].  
+
+Retrieved from https://alkakrab.itch.io/fantasy-rpg-soundtrack-music 
+
+**Time-lapse music:**
+
+ComaStudio. (2022). The Universe [Recorded by ComaStudio], ComaStudio Music. [Digital download]. 
+
+**Tiles:**
+
+Free Game Assets (GUI, Sprite, Tilesets). (n.d.). Free Swamp 2D Tileset Pixel Art [Pixel art tileset]. Retrieved from https://free-game-assets.itch.io/free-swamp-2d-tileset-pixel-art 
+
+Fawf_art. (n.d.). 16x16 Forest Tileset [Pixel art tileset]. Retrieved from https://fawf-art.itch.io/16x16-forest-tileset 
+
+**Sprites:**
+
+Free Game Assets (GUI, Sprite, Tilesets). (n.d.). Free Tiny Hero Sprites Pixel Art [Pixel art sprite]. Retrieved from https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art 
+
+Frontend Pashtet. (n.d.). Pixel Art Key [Pixel art].  
+
+Retrieved from https://drxwat.itch.io/pixel-art-key 
+
+XLIVE99. (2020). Pixel_Torch [Pixel art]. 
+
+ Retrieved from: https://opengameart.org/content/animated-pixel-torch 
+
+Sevarihk. (2022). Animated Pixel Art Stone Gate [Animated pixel art]. Retrieved from https://opengameart.org/content/animated-pixel-art-stone-gate 
+
+## License 
 
 This project was created solely for a school assignment and is not intended for public release or distribution. All rights to the game and its code belong to the project creator.
